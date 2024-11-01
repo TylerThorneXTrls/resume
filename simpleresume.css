@@ -1,0 +1,37 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.container{
+    width:60vw;
+    margin:auto;
+    background-color: white;
+    padding:20px;
+    box-shadow: 5px 5px 7px lightslategray;
+    height: 80%;
+}
+body{
+
+    background-color:#f4f4f4;
+    
+    
+    
+    
+}
+.information{
+    text-align: center;
+    
+    
+}
+
+
+h2,h3{
+    font-weight:bold;
+}
+#skills > ul li{
+    list-style: none;
+    margin-left:-40px;
+}
+.Experinces > p{
+font-style:italic
+}
